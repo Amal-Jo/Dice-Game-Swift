@@ -1,2 +1,2 @@
 # Dice-Game-Swift
-it's a simple iOS dice game done by swift
+it's a simple iOS dice game done by swift.
